@@ -205,5 +205,5 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "resume"
     name       = "Resume"
-    url        = "https://drive.google.com/file/d/1wOBMcDq6Ksxe4rCJN3x8bzBkh1sFqtOL/view?usp=sharing"
+    url        = "https://drive.google.com/file/d/1PprvTQsMZELjtEPdPm2jXfJixy8t2Kcl/view?usp=sharing"
     weight = 3
